@@ -43,9 +43,10 @@
     .main-header p{
         margin: 40px auto;
         font-size: 24px;
+        width: 100%;
     }
     .find {
-        padding: 10px 20px;
+        padding: 15px 25px;
     }
     .other-partner {
         width: 200px;
@@ -78,7 +79,7 @@
 
 @media (min-width:1439px){
     .partner-list {
-        width: 50%;
+        width: 950px;
         margin: 0 auto;
         justify-content: space-between;
 
@@ -86,4 +87,9 @@
     .wrapper {
         width: 1000px;
     }
+    .find {
+        padding: 10px 20px;
+    }
 } 
+
+  
